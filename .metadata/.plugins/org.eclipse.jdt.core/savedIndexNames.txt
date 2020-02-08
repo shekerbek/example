@@ -1,0 +1,19 @@
+INDEX VERSION 1.129+/Users/shekerbekmurzaliev/Desktop/eclipse-workspace2/.metadata/.plugins/org.eclipse.jdt.core
+3220204204.index
+1035624587.index
+1371144414.index
+4120207929.index
+2069868122.index
+3973171827.index
+992820561.index
+3352589267.index
+3091225989.index
+1597690810.index
+2958129466.index
+3517950884.index
+2781636778.index
+3655526826.index
+2194718128.index
+2100619567.index
+3607365321.index
+851201853.index

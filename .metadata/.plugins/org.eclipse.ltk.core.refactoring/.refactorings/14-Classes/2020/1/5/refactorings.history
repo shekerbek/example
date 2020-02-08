@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;task&apos; to &apos;StudentClass&apos;&#x0A;- Original project: &apos;14-Classes&apos;&#x0A;- Original element: &apos;task&apos;&#x0A;- Renamed element: &apos;StudentClass&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;task&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{task.java[task" matchStrategy="1" name="StudentClass" qualified="false" references="true" similarDeclarations="false" stamp="1580337488469" textual="false" version="1.0"/>
+</session>
